@@ -1,4 +1,4 @@
-# CycleGAN Implementation for Image-To-Image Translation
+# CycleGAN Implementation for Wildlife Image-To-Image Translation
 
 ## Overview
 
