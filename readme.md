@@ -1,4 +1,4 @@
-# CycleGAN Implementation for Wildlife Image-To-Image Translation
+# CycleGAN for Image To Image Translation - Wildlife
 
 ## Overview
 
@@ -41,17 +41,6 @@ The dataset includes images of horses in domain A and zebras in domain B, divide
 6. **models.py:** Defines the CycleGAN model architecture.
 7. **utils.py:** Utility functions used in training.
 8. **requirements.txt:** Lists all the required libraries with their respective versions. Install them using `pip install -r requirements.txt`.
-
----
-
-## Key Concepts Explored
-1. Architecture of CycleGAN.
-2. ResNet
-3. The Cycle Loss function.
-4. The Identity and Patch GAN Loss.
-5. Reflection Padding.
-6. Instance Normalization.
-7. CycleGAN model from scratch in PyTorch.
 
 ---
 
